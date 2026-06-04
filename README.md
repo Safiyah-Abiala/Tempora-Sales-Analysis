@@ -10,16 +10,17 @@ By converting transactional data into granular operational metrics, this dashboa
 ## 📊 Dashboard Pages & Deep Dives
 
 ### 🏢 Main Overview Dashboard
-![Overview Dashboard](images/Overview%20Dashboard.png)
+<img src="images/Overview%20Dashboard.png" alt="Overview Dashboard" width="100%">
 
 * **High-Level Snapshot:** This central hub tracks core company KPIs at a glance, showing **\$70.33M in Total Sales**, **\$6.49M in Total Profit**, and a **9.22% Profit Margin** across all divisions. It serves as the primary navigation landing page connecting the specialized reports.
 
 ---
 
 ### 1️⃣ Sales Report
-| Main Dashboard | Slide-out Insights Modal |
-| :---: | :---: |
-| ![Sales Report](images/Sales%20report.png) | ![Sales Insight](images/Sales%20insight.png) |
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/Sales%20report.png" alt="Sales Report" style="width: 49%; max-width: 49%;">
+  <img src="images/Sales%20insight.png" alt="Sales Insight" style="width: 49%; max-width: 49%;">
+</div>
 
 * **Core Metrics:** Generated **\$70.33M in Total Sales**, driving **\$6.49M in Total Profit** at an overall **9.22% Profit Margin**.
 * **Sales Representative Execution:** **David** emerged as the top contributor, producing **\$16.4M** in sales with maximum profit conversion, while **Charlie** tracked at the lower bound with **\$11.55M**.
@@ -29,9 +30,10 @@ By converting transactional data into granular operational metrics, this dashboa
 ---
 
 ### 2️⃣ Product Performance Report
-| Main Dashboard | Slide-out Insights Modal |
-| :---: | :---: |
-| ![Product Report](images/Product%20report.png) | ![Product Insight](images/Product%20insight.png) |
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/Product%20report.png" alt="Product Report" style="width: 49%; max-width: 49%;">
+  <img src="images/Product%20insight.png" alt="Product Insight" style="width: 49%; max-width: 49%;">
+</div>
 
 * **Volume Drivers:** **Clothing** is the core flagship category, pulling in **\$19.29M** in revenue and leading the category mix at **27.42%** of total volume.
 * **Profit Optimization:** While **Furniture** ranks second in overall sales (\$18.33M), it delivers the **highest absolute profit margins (\$1.78M)**, showcasing phenomenal pricing power and structural efficiency.
@@ -40,9 +42,10 @@ By converting transactional data into granular operational metrics, this dashboa
 ---
 
 ### 3️⃣ Marketing & Customer Acquisition Report
-| Main Dashboard | Slide-out Insights Modal |
-| :---: | :---: |
-| ![Marketing Report](images/Marketing%20report.png) | ![Marketing Insight](images/Marketing%20insight.png) |
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="images/Marketing%20report.png" alt="Marketing Report" style="width: 49%; max-width: 49%;">
+  <img src="images/Marketing%20insight.png" alt="Marketing Insight" style="width: 49%; max-width: 49%;">
+</div>
 
 * **Acquisition Mix:** Marketing efforts successfully acquired **504 New Customers** vs. **496 Returning Customers**, maintaining a stable baseline **Retention Rate of 49.60%**.
 * **Territory Winning:** The **North Region** proved to be the most fertile ground for business development, capturing the highest volume of new customer acquisitions (**145 new accounts**).
