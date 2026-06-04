@@ -76,8 +76,8 @@ The dataset was processed in Power Query to build a highly optimized star schema
 ---
 
 ## 📂 Repository Content
-* `Tempora Sales Analysis.pbix` - Complete Power BI dashboard file.
-* `Tempora sales data.csv` - Transformed database snapshot.
+* <a href="https://github.com/safiyah-abiala/Tempora-sales-analysis/raw/main/Tempora%20Sales%20Analysis.pbix" download>Tempora Sales Analysis.pbix</a> - Complete Power BI dashboard file (Click to download).
+* <a href="https://github.com/safiyah-abiala/Tempora-sales-analysis/raw/main/Sales_Data.csv" download>Sales_Data.csv</a> - Transformed database snapshot (Click to download).
 * `/images` - Dashboard page visual assets.
 
 ---
